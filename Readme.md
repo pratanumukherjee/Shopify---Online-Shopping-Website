@@ -37,7 +37,7 @@ h)	Implementing Microservices patterns (API gateway, Config Server, Service Disc
 1.	VCS                :  Github
 2.	Buildtool       : Maven
 3.	Language      : Java
-4.	Middleware :  SpringBoot
+4.	Middleware  :  SpringBoot
 5.	Frond end    :  Angular Framework
 6.	Data Store   :  MongoDB/MySQL
 7.	Testing         :  Junit, Mockito, Spring Test, Angular
