@@ -1,0 +1,23 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.product >mat-card >img{
+    object-fit: contain;
+    height: 200px;
+}
+.product >mat-card{
+    display: flex;
+    flex-direction: column;
+    min-height: 350px;
+    width: 300px;
+    margin: 20px;
+    align-items: center;
+}
+.product >mat-card >button{
+    margin-top: 20px;
+    background-color: chocolate;
+    border: 1px solid;
+    border-color: chocolate chocolate chocolate;
+}
